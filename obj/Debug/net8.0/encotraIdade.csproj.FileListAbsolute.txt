@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\bin\Debug\net8.0\encotraIdade.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\bin\Debug\net8.0\encotraIdade.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\bin\Debug\net8.0\encotraIdade.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\bin\Debug\net8.0\encotraIdade.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\bin\Debug\net8.0\encotraIdade.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\obj\Debug\net8.0\encotraIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\obj\Debug\net8.0\encotraIdade.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\obj\Debug\net8.0\encotraIdade.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\obj\Debug\net8.0\encotraIdade.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\obj\Debug\net8.0\encotraIdade.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\obj\Debug\net8.0\refint\encotraIdade.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\obj\Debug\net8.0\encotraIdade.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\obj\Debug\net8.0\encotraIdade.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\encotraIdade\obj\Debug\net8.0\ref\encotraIdade.dll
